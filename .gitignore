@@ -3,5 +3,15 @@
 # The library shouldn't decide about the exact versions of
 # its dependencies, but let the downstream crate decide.
 chapter1/Cargo.lock
+chapter2/Cargo.lock
+chapter2a/Cargo.lock
+chapter3/Cargo.lock
+chapter4/Cargo.lock
 # Generated files
 chapter1/target/
+chapter2/target/
+chapter2a/target/
+chapter3/target/
+chapter4/target/
+
+
